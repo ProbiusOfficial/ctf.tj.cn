@@ -8,12 +8,6 @@ comments: true
 
 本项目已接入CDN服务，国内用户推荐使用 [https://ctf.probius.xyz/](https://ctf.probius.xyz/) 访问。感谢渊龙安全团队[@AabyssZG](https://github.com/AabyssZG) 曾哥提供的CDN支持~
 
-<div align="center">
-
-<iframe src="//player.bilibili.com/player.html?aid=398221068&bvid=BV13o4y1x7L2&cid=1117061033&high_quality=1" width="90%" height="360" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"> </iframe>   
-
-</div>
-
 如果您是第一次接触请访问 [CTF快速入门](https://ctf.probius.xyz/HC_Start/) 来快速建立对CTF的认知。
 
 ## 关于 / About
