@@ -13,11 +13,11 @@
     </div>
 
 
-文档依靠Mkdocs-material 基于Github-Page 依靠 gh-pages 部署在 [https://ctf.probius.xyz/](https://ctf.probius.xyz/)   
+文档依靠Mkdocs-material 基于Github-Page 依靠 gh-pages 部署在 [https://ctf.tj.cn/](https://ctf.tj.cn/) 以及 [https://ctf.probius.xyz/](https://ctf.probius.xyz/)
 
-因接入CDN，本站链接变更为：[https://ctf.probius.xyz/](https://ctf.probius.xyz/) ，感谢渊龙Sec安全团队[@AabyssZG](https://github.com/AabyssZG) 曾哥提供的CDN支持~
+本地址 [https://ctf.tj.cn/](https://ctf.tj.cn/) 依旧可以访问，但是由于国内网络环境问题，访问速度可能会比较慢，所以为了方便国内用户，项目接入CDN，您可以使用：https://ctf.probius.xyz/ 获得更好的国内访问体验 ，感谢渊龙安全团队[@AabyssZG](https://github.com/AabyssZG) 曾哥提供的CDN支持~
 
-您可以直接访问该页面[在线阅读](https://ctf.probius.xyz/)，如果您想要转载本项目，请带上项目源地址：https://github.com/ProbiusOfficial/CTF-QuickStart
+您可以直接访问该页面[在线阅读](https://ctf.tj.cn/)，如果您想要转载本项目，请带上项目源地址：https://github.com/ProbiusOfficial/CTF-QuickStart
 
 如果文档有帮助到你，麻烦点一个:star:支持一下！！
 
