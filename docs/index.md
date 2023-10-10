@@ -2,8 +2,8 @@
 comments: true
 
 ---
-# CTF, 启动！
 
+# CTF, 启动！
 ## 重要 - 关于CDN接入
 
 本项目已接入CDN服务，国内用户推荐使用 [https://ctf.probius.xyz/](https://ctf.probius.xyz/) 访问。感谢渊龙安全团队[@AabyssZG](https://github.com/AabyssZG) 曾哥提供的CDN支持~
