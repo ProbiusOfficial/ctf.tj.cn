@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var newUrl = "https://ctf.probius.xyz" + pathAndQuery;
 
     // 显示一个警告消息给用户
-    console("由于CDN接入，站点已更改，正在重定向跳转到 " + newUrl);
+    console.log("由于CDN接入，站点已更改，正在重定向跳转到 " + newUrl);
 
     // 重定向到新的网址
     window.location.href = newUrl;
